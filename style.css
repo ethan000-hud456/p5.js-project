@@ -1,0 +1,8 @@
+h3{
+    font-size: 30px !important;
+}
+
+canvas{
+    border: 3px dashed cornflowerblue;
+    box-shadow: 5px 5px 5px black;
+}
